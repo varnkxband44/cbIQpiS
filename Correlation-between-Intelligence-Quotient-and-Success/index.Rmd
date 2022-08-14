@@ -1,0 +1,13 @@
+---
+title: "Correlation between Intelligence Quotient and Success"
+description: |
+  Welcome to the website. I hope you enjoy it!
+site: distill::distill_website
+---
+
+A study on the truth about the "long-thought-to-be" inverse correlation between Intelligence Quotient and factors of success. The involved data sets have been extracted and cleaned from the National Longitudinal Survey of Youth 1997 (NLSY97). A distribution of the following correspondents were graphed and briefly studied for the purposes of analyzing their association with success. Intelligence Quotient does not directly correspond with may be defined as success, however does hold a clear indirect impact on the key precursors to success.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

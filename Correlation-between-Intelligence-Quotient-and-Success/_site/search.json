@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "",
+      "author": [],
+      "contents": "\nAbout Me\nMy name is Varun Santosh Khedkar, and I am a sophomore attending\nLexington High School at the time I am writing this study. I am learning\nR, C/C++, Java, Python, Html + CSS, and a little C#; I enjoy\napplications of programming in data science as well as robotics, which I\nam also interested in very much. Contact me at varunskhedkar@gmail.com, I’d love to hear opinions\nregarding my work on this study.\nAbout this Project\nThis is the final project as part of David Kane’s Data Science\nProgram, where I chose to learn how to utilize the language, R, to\nresearch and evaluate data. In this final project, I am studying the\nrelation of intelligence quotient alongside varying data sets associated\nwith happiness, income, GPA, healthy relations and other potential\nindicators of success. My goal is to better understand the correlation\nbetween the controversial relationship of IQ for myself and help educate\nothers as well.\nYay Kane’s Free Data\nScience Bootcamp\n\n\n\n",
+      "last_modified": "2022-08-14T18:33:03-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Correlation between Intelligence Quotient and Success",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-08-14T16:47:32-04:00"
+    }
+  ],
+  "collections": []
+}

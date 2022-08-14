@@ -1,0 +1,15 @@
+---
+
+---
+
+## About Me
+My name is Varun Santosh Khedkar, and I am a sophomore attending Lexington High School at the time I am writing this study. I am learning R, C/C++, Java, Python, Html + CSS, and a little C#; I enjoy applications of programming in data science as well as robotics, which I am also interested in very much. Contact me at varunskhedkar@gmail.com, I'd love to hear opinions regarding my work on this study.
+
+## About this Project
+This is the final project as part of David Kane's Data Science Program, where I chose to learn how to utilize the language, R, to  research and evaluate data. In this final project, I am studying the relation of intelligence quotient alongside varying data sets associated with happiness, income, GPA, healthy relations and other potential indicators of success. My goal is to better understand the correlation between the controversial relationship of IQ for myself and help educate others as well.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info/)
