@@ -1,1 +1,1 @@
-# IQ-Success
+# Correlation between Intelligence Quotient and Success
